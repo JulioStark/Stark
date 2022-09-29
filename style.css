@@ -1,0 +1,20 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+.Mundo{
+  color: #5E35B1;
+  font-size: 200%;
+  background: #212121;
+  font-style: italic;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
+.Planeta{
+  color: #D50000;
+  font-size: 200%;
+  background: #0080C0;
+  font-style: italic;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
